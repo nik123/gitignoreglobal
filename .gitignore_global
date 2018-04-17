@@ -1,0 +1,40 @@
+# My global git ignore file
+# Useful links:
+# - https://github.com/github/gitignore
+
+# OS generated files #
+######################
+
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# XCode #
+#########
+
+# Build generated
+
+build/
+DerivedData
+
+# Various XCode settings
+
+xcuserdata/
+
+# JetBrains Based IDEs #
+########################
+
+.idea
+
+# Python VirtualEnv #
+#####################
+
+venv/
+
+# Vim #
+#######
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
