@@ -2,28 +2,19 @@
 # Useful links:
 # - https://github.com/github/gitignore
 
-# OS generated files #
-######################
-
+# OS generated files
 .DS_Store
 .DS_Store?
 Thumbs.db
 
-# XCode #
-#########
-
-# Build generated
-
+# XCode: build generated
 build/
 DerivedData
 
 # Various XCode settings
-
 xcuserdata/
 
-# JetBrains Based IDEs #
-########################
-
+# JetBrains Based IDEs
 .idea
 
 # Python: byte-compiled / optimized / DLL files
@@ -31,14 +22,10 @@ __pycache__
 *.py[cod]
 *$py.class
 
-# Python VirtualEnv #
-#####################
-
+# Python VirtualEnv
 venv/
 
-# Vim #
-#######
-# Swap
+# Vim swap files
 [._]*.s[a-v][a-z]
 [._]*.sw[a-p]
 [._]s[a-v][a-z]
